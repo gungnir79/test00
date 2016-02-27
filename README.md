@@ -1,5 +1,7 @@
 # test00
-simple C code
 
- ad-hoc build like below.
- gcc -o test test.c
+### simple C code
+
+>Ad-hoc build like below.<br>
+>`gcc -o test test.c`
+
